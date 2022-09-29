@@ -5,10 +5,6 @@ Replace `NSLocalizedString("foobar.buzz")` to `L10n.FooBar.buzz`
 ## Usage
 
 ```sh
-npm install -g migrate-swiftgen-l10n
-```
-
-```sh
 npx migrate-swiftgen-l10n path/to/source/dir
 ```
 
