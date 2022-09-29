@@ -1,9 +1,11 @@
 {
   "name": "migrate-swiftgen-l10n",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
-  "main": "index.js",
-  "bin": "index.js",
+  "main": "./index.js",
+  "bin": {
+    "migrate-swiftgen-l10n": "./index.js"
+  },
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

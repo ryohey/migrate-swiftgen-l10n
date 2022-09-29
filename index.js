@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import camelCase from "camelcase"
 import fs from "fs/promises"
 import recursive from "recursive-readdir"
